@@ -29,7 +29,7 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ibutanol&show_icons=true&count_private=true&theme=gruvbox" />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/stanislaus-makarov?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
+[![Linkedin Badge](https://img.shields.io/badge/stanislaus%20makarov?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
 [![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
 
 
