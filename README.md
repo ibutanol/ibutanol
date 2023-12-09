@@ -1,4 +1,4 @@
-#🎨🖥️ Me
+# 🎨🖥️ Me
 ###As an artist and programmer, I find my truest expression at the intersection of art and code. My passion lies in translating ideas and thoughts into visual masterpieces, painting digital canvases with the strokes of creativity.
 
 #🖌️ The Artist:
