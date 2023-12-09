@@ -30,7 +30,7 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 <br>
 >contact me:
 >
-[![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
+#[![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
 
 
 
