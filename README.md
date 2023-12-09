@@ -20,3 +20,5 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 > skills
 > 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+![W3C Validation](https://img.shields.io/w3c-validation/:parser)
+
