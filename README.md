@@ -19,6 +19,5 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 
 > skills
 > 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![Static Badge](https://img.shields.io/badge/-Html?style=flat&logo=Html&logoColor=red&label=white&labelColor=black&color=green)
-
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) 
 
