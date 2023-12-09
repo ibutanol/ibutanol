@@ -25,7 +25,7 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ibutanol.ibutanol)
+
 
 
 
