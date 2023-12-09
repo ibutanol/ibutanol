@@ -24,6 +24,8 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 >
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-circle&logo=visual-studio-code)
 
+stanislaus-makarov-4a5068171/
+<a target="_blank"href="https://www.linkedin.com/in/ileriayo-adebiyi-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ibutanol&show_icons=true&count_private=true&theme=gruvbox" />
