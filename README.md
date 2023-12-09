@@ -1,4 +1,6 @@
-[![Instagram Badge](https://img.shields.io/badge/-makarov.artz-grey?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/makarov.artz/)](https://www.instagram.com/makarov.artz)
+[![Instagram Badge](https://img.shields.io/badge/-makarov.artz-grey?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/makarov.artz/)](https://www.instagram.com/makarov.artz) ![Static Badge](https://img.shields.io/badge/-Sololearn-yellow?style=flat-circle&logo=instagram&logoColor=yellow&link=https://www.sololearn.com/en/profile/16359972)
+
+
 <h1>🎨🖥️ Me</h1> 
 As an artist and programmer, I find my truest expression at the intersection of art and code. My passion lies in translating ideas and thoughts into visual masterpieces, painting digital canvases with the strokes of creativity.
 <br>
