@@ -19,7 +19,7 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 
 > skills
 > 
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3)
 
 
 
