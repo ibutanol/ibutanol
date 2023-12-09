@@ -1,4 +1,4 @@
-<h1>🎨🖥️ Me</h1>
+<h1>🎨🖥️ Me</h1> [![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
 As an artist and programmer, I find my truest expression at the intersection of art and code. My passion lies in translating ideas and thoughts into visual masterpieces, painting digital canvases with the strokes of creativity.
 <br>
 <h1>🖌️ The Artist</h1>
@@ -28,7 +28,7 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ibutanol&show_icons=true&count_private=true&theme=gruvbox" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
+[![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/)
 
 
 
