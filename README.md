@@ -14,3 +14,8 @@ The synergy between art and code is where I find my balance. It's not just about
 Join me on this digital odyssey as we explore the endless possibilities that arise when art and code dance together. From intricate designs to elegant algorithms, I'm on a mission to create a symphony of pixels and commands.
 
 Let's paint the canvas of technology with the vibrant colors of creativity and the structured lines of programming. Welcome to my world where art and code coalesce into a seamless expression of innovation.
+
+<br>
+
+> skills
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
