@@ -22,7 +22,7 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3) ![Git](https://img.shields.io/badge/-Git-black?style=flat-cricle&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-cricle&logo=github)
 
 
-<center>![Github Stats](https://github-readme-stats.vercel.app/api?username=ibutanol&count_private=true&show_icons=true&include_all_commits=true)</center>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ibutanol&count_private=true&show_icons=true&include_all_commits=true)
 
 
 
