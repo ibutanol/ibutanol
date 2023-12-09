@@ -1,4 +1,4 @@
-<h1>🎨🖥️ Me</h1> [![Linkedin Badge](https://img.shields.io/badge/-stanislaus-makarov-4a5068171/%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/ "Connect on LinkedIn")
+<h1>🎨🖥️ Me</h1> [![Linkedin Badge](https://img.shields.io/badge/-stanislaus-makarov-4a5068171%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/ "Connect on LinkedIn")
 As an artist and programmer, I find my truest expression at the intersection of art and code. My passion lies in translating ideas and thoughts into visual masterpieces, painting digital canvases with the strokes of creativity.
 <br>
 <h1>🖌️ The Artist</h1>
