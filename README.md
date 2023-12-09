@@ -21,8 +21,8 @@ Let's paint the canvas of technology with the vibrant colors of creativity and t
 > 
 ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-circle&logo=css3) ![Git](https://img.shields.io/badge/-Git-black?style=flat-cricle&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-cricle&logo=github) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-circle&logo=mysql)
 > tools
->[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samujjwaal/ "Connect on LinkedIn")
- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-circle&logo=visual-studio-code)
+>
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-circle&logo=visual-studio-code)
 
 
  
