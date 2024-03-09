@@ -1,6 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ibutanol.ibutanol" />
 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Willkommen+!+😊;+I'm+Stani+Makarov!;" />
+</h1>
+
 
 [![Instagram Badge](https://img.shields.io/badge/-makarov.artz-grey?style=flat-circle&logo=instagram&logoColor=white&link=https://www.instagram.com/makarov.artz/)](https://www.instagram.com/makarov.artz) 
 [![Instagram Badge](https://img.shields.io/badge/-Sololearn-yellow?style=flat-circle&logo=instagram&logoColor=yellow&link=https://www.sololearn.com/en/profile/16359972/)](https://www.sololearn.com/en/profile/16359972)
