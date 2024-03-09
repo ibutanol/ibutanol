@@ -16,9 +16,7 @@
  
  🌱 I’m currently learning **Html, CSS, JavaScript**
 
-💬 Ask me about **on** <!-- [![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/) -->
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fact about me **i love ice bathing**
 
  </div>
 
