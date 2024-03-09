@@ -10,6 +10,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Sololearn-yellow?style=flat-circle&logo=instagram&logoColor=yellow&link=https://www.sololearn.com/en/profile/16359972/)](https://www.sololearn.com/en/profile/16359972)
 
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a fullstack project**
+ 
+ 🌱 I’m currently learning **Html, CSS, JavaScript**
+
+💬 Ask me about **on** <!-- [![Linkedin Badge](https://img.shields.io/badge/-stanislaus%20makarov-4a5068171/?style=flat-circle&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stanislaus-makarov-4a5068171/) -->
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+
 <h1>🎨🖥️ Me</h1> 
 As an artist and programmer, I find my truest expression at the intersection of art and code. My passion lies in translating ideas and thoughts into visual masterpieces, painting digital canvases with the strokes of creativity.
 <br>
