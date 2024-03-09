@@ -1,4 +1,4 @@
-<img align="right" src="https://camo.githubusercontent.com/241ca4e89f7c15b6d39ccfb86d315468e9b3700e8ce4a97623d320f0656701e3/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d73616c65737030372e73616c6573703037" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=ibutanol.ibutanol" style="max-width: 100%;">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ibutanol.ibutanol" />
 
 
 
