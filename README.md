@@ -19,7 +19,7 @@
 ⚡ Fact about me **i love ice bathing**
 
  </div>
-
+<!--
 <h1>🎨🖥️ Me</h1> 
 As an artist and programmer, I find my truest expression at the intersection of art and code. My passion lies in translating ideas and thoughts into visual masterpieces, painting digital canvases with the strokes of creativity.
 <br>
@@ -36,7 +36,7 @@ The synergy between art and code is where I find my balance. It's not just about
 Join me on this digital odyssey as we explore the endless possibilities that arise when art and code dance together. From intricate designs to elegant algorithms, I'm on a mission to create a symphony of pixels and commands.
 
 Let's paint the canvas of technology with the vibrant colors of creativity and the structured lines of programming. Welcome to my world where art and code coalesce into a seamless expression of innovation.
-
+-->
 <br>
 
 > skills
