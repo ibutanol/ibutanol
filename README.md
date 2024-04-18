@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ibutanol.visitor-badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ibutanol.ibutanol" />
                      
 
 <h1 align="center">
