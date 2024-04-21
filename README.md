@@ -1,6 +1,6 @@
 <div align="right">
     
-![](https://vbr.nathanchung.dev/badge?page_id=ibutanol-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![](https://vbr.nathanchung.dev/badge?page_id=ibutanol-visitors&color=55acb7&style=flat-circle&logo=Github)
 </div>                 
 
 <h1 align="center">
