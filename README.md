@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ibutanol.ibutanol" />
-![](https://vbr.nathanchung.dev/badge?page_id=visitor-badge-reloaded-visitors&color=55acb7&style=for-the-badge&logo=Github)
+![](https://vbr.nathanchung.dev/badge?page_id=ibutanol-visitors&color=55acb7&style=for-the-badge&logo=Github)
                     
 
 <h1 align="center">
