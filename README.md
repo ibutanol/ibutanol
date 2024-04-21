@@ -1,5 +1,6 @@
+<div align="left">
 ![](https://vbr.nathanchung.dev/badge?page_id=ibutanol-visitors&color=55acb7&style=for-the-badge&logo=Github)
-                    
+</div>                 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+!+😊;+I+am+Stani+Makarov!;" />
